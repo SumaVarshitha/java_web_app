@@ -1,10 +1,10 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>${group_id}</groupId>
-	<artifactId>${artifact_id}</artifactId>
-	<packaging>${artifact_extension}</packaging>
-	<version>${artifact_version}</version>
+	<groupId>com.wipro</groupId>
+	<artifactId>java-webapp</artifactId>
+	<packaging>war</packaging>
+	<version>1.2</version>
 	<name>HelloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
